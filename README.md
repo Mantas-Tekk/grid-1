@@ -1,7 +1,7 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Tekknow69/LICENSE.md)
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-[![HitCount](http://hits.dwyl.com/TekkNow/grid-1.svg)](http://hits.dwyl.com/TekkNow/grid-1)
+[![HitCount](http://hits.dwyl.com/Tekknow69/grid-1.svg)](http://hits.dwyl.com/Tekknow69/grid-1)
 
 # Grid layout 1
 ### Grid layout template
