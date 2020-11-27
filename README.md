@@ -3,8 +3,8 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![HitCount](http://hits.dwyl.com/tekknow69/grid-1.svg)](http://hits.dwyl.com/tekknow69/grid-1)
 
-# Grid layout 1
-### Grid layout template
+# Grid layout template
+### Grid layout template 1
 
 This project is for educational porpuses only. Pull request are welcome! Thank you for your cooperation!
 
